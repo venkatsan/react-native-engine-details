@@ -1,0 +1,20 @@
+{
+  "name": "react-native-engine-details",
+  "version": "0.0.1",
+  "description": "React Native Custom Native Module",
+  "license": "", 
+  "main": "index.js",
+  "author": {
+    "name": "Venkatesan C",
+    "email": "venkatc.89@gmail.com",
+    "url": "https://my"
+  },
+  "bugs": {
+    "url": "https://my" 
+  },
+  "homepage": "https://my", 
+  "repository": {
+    "type": "git",
+    "url": "" 
+  }
+}
