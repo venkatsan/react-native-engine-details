@@ -7,14 +7,14 @@
   "author": {
     "name": "Venkatesan C",
     "email": "venkatc.89@gmail.com",
-    "url": "https://my"
+    "url": "https://github.com/venkatsan/react-native-engine-details"
   },
   "bugs": {
-    "url": "https://my" 
+    "url": "https://github.com/venkatsan/react-native-engine-details/issues" 
   },
-  "homepage": "https://my", 
+  "homepage": "https://github.com/venkatsan/react-native-engine-details", 
   "repository": {
     "type": "git",
-    "url": "" 
+    "url": "https://github.com/venkatsan/react-native-engine-details" 
   }
 }
